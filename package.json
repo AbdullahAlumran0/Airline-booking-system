@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "@supabase/supabase-js": "^2.43.1"
+  },
+  "name": "ics321-proj",
+  "version": "1.0.0",
+  "main": "mainpage.html",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  },
+  "scripts": {
+      "start": "parcel mainpage.html"
+
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
+
